@@ -1,5 +1,7 @@
 # Put Site Domain in Tab Title
 
+You can install the Firefox add-on from [here](https://addons.mozilla.org/en-US/firefox/addon/put-site-domain-in-tab-title/).
+
 ## Description
 
 With this extension, tab titles will be prefixed with the domain name of the site open in it.
