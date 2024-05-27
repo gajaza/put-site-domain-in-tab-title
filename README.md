@@ -8,6 +8,10 @@ The domain name will be enclosed in brackets and will appear before the actual t
 
 The second-level domain will always be shown. However, whether or not the third-level (and nth-level) domain will be shown depends on the total length of the full domain name. The `www` part will never be shown as a part of the domain name in the tab title (i.e., [www.google.com](https://www.google.com) will appear as `google.com`).
 
+# Use Cases
+
+You might find this extension helpful if you've disabled favicons in your browser for whatever reasons (e.g., privacy concerns due to [supercookies](https://github.com/jonasstrehle/supercookie)).
+
 ## Configuration
 
 You can specify what text prefixes the tab title for certain domains through the preferences page of the add-on.
